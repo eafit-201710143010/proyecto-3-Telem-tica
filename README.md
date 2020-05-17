@@ -36,8 +36,13 @@ La ejecución del script se realizó en notebook de Google Colab:
 
 https://colab.research.google.com/drive/1XlaMWZIsYkKIwrQPwlilXCxkp8knKUdI?usp=sharing
 
-Obteniendo los siguientes resultados:
 
-![Mundial](https://github.com/eafit-201710044010/proyecto-3-Telem-tica/blob/master/)
+Obteniendo los siguientes resultados:
+- Gráfica confirmados a nivel mundial vs Tiempo
+![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga.png)
+- Gráfica confirmados en Colombia vs Tiempo
+![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga%20(1).png)
+- Gráfica de comparación casos mundiales y colombianos
+![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga%20(2).png)
 
 
