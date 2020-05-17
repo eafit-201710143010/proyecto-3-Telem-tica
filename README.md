@@ -1,5 +1,9 @@
 # Proyecto 3 telemática
 
+* Desarrollado por: *
+Manuela Valencia
+Andrés Sánchez
+
 Aplicación de un sistema de analítica sobre datasets de covid-19 a nivel mundial y a nivel nacional, para comaraciones de estadísticas entre los datasets, compuesto principalmente por el archivo:
 
 [Visualización](Visualización.ipynb) 
