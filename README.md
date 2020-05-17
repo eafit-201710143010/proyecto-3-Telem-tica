@@ -1,6 +1,6 @@
 # Proyecto 3 telemática
 
-* Desarrollado por: *
+* Desarrollado por:
 Manuela Valencia
 Andrés Sánchez
 
