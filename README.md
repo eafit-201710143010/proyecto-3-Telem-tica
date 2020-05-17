@@ -42,7 +42,8 @@ Obteniendo los siguientes resultados:
 
 - Gráfica confirmados a nivel mundial vs Tiempo
 
-![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga.png)
+
+![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga%20(2).png)
 
 
 - Gráfica confirmados en Colombia vs Tiempo
@@ -54,6 +55,6 @@ Obteniendo los siguientes resultados:
 - Gráfica de comparación casos mundiales y colombianos
 
 
-![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga%20(2).png)
+![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga.png)
 
 
