@@ -38,6 +38,8 @@ https://colab.research.google.com/drive/1XlaMWZIsYkKIwrQPwlilXCxkp8knKUdI?usp=sh
 
 
 Obteniendo los siguientes resultados:
+
+
 - Gráfica confirmados a nivel mundial vs Tiempo
 
 ![Mundial](https://github.com/eafit-201710143010/proyecto-3-Telem-tica/blob/master/descarga.png)
